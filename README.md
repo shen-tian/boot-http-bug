@@ -4,3 +4,5 @@ Reproducing a problem in [boot-http](https://github.com/pandeiro/boot-http) 0.7.
 Serving this folder with `python -m SimpleHTTPServer` works as intended.
 
 Serving with `boot -d pandeiro/boot-http serve -d . wait` does not. Version 0.7.3.
+
+Using `plotly.js` from its 1.19.2 release.
